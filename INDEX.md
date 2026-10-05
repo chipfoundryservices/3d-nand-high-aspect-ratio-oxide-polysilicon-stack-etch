@@ -32,7 +32,7 @@
 
 | Chapter | File | Status | Key Topics |
 |---------|------|--------|-----------|
-| **5** | [05-reactor-requirements-selectivity.md](chapters/05-reactor-requirements-selectivity.md) | 🚩 | Reactor requirements for oxide/polysilicon selectivity control |
+| **5** | [05-reactor-requirements-selectivity.md](chapters/05-reactor-requirements-selectivity.md) | ✓ | Reactor requirements for oxide/polysilicon selectivity control |
 | **6** | [06-gas-delivery-hybrid-chemistry.md](chapters/06-gas-delivery-hybrid-chemistry.md) | 🚩 | Gas delivery and byproduct management for halogen/fluorocarbon hybrid chemistry |
 | **7** | [07-pressure-power-bias-opop.md](chapters/07-pressure-power-bias-opop.md) | 🚩 | Pressure-power-bias process window for OPOP channel hole etch |
 | **8** | [08-chamber-materials-mixed-chemistry.md](chapters/08-chamber-materials-mixed-chemistry.md) | 🚩 | Chamber materials and conditioning under mixed halogen/fluorocarbon exposure |
