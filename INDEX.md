@@ -69,7 +69,7 @@
 | Appendix | File | Status | Content |
 |----------|------|--------|---------|
 | **Glossary** | [appendices/glossary.md](appendices/glossary.md) | ✓ | OPOP etch-specific terminology and acronyms |
-| **Appendix A** | [appendices/thermodynamic-data.md](appendices/thermodynamic-data.md) | 🚩 | Thermodynamic and material property data tables (polysilicon, oxide, halogen species) |
+| **Appendix A** | [appendices/thermodynamic-data.md](appendices/thermodynamic-data.md) | ✓ | Thermodynamic and material property data tables (polysilicon, oxide, halogen species) |
 | **Appendix B** | [appendices/material-compatibility.md](appendices/material-compatibility.md) | 🚩 | Material compatibility matrix for chamber components under mixed halogen/fluorocarbon exposure |
 | **Appendix C** | [appendices/standard-procedures.md](appendices/standard-procedures.md) | 🚩 | Standard operating procedures for OPOP channel hole, staircase, and removal/replacement |
 | **Appendix D** | [appendices/correction-tables.md](appendices/correction-tables.md) | 🚩 | ARDE / selectivity correction lookup tables, OPOP vs. ON comparative |
