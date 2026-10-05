@@ -50,7 +50,7 @@
 | **11** | [11-charging-semiconducting-sidewall.md](chapters/11-charging-semiconducting-sidewall.md) | ✓ | Charging and profile defects arising from the semiconducting sacrificial sidewall |
 | **12** | [12-selectivity-engineering-opop.md](chapters/12-selectivity-engineering-opop.md) | ✓ | Oxide/polysilicon selectivity engineering, averaged selectivity control |
 | **13** | [13-staircase-opop.md](chapters/13-staircase-opop.md) | ✓ | Staircase etch considerations specific to polysilicon sacrificial layers |
-| **14** | [14-polysilicon-removal-word-line-replacement.md](chapters/14-polysilicon-removal-word-line-replacement.md) | 🚩 | Sacrificial polysilicon removal chemistry, word line replacement for OPOP stacks |
+| **14** | [14-polysilicon-removal-word-line-replacement.md](chapters/14-polysilicon-removal-word-line-replacement.md) | ✓ | Sacrificial polysilicon removal chemistry, word line replacement for OPOP stacks |
 
 ---
 
