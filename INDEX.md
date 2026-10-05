@@ -60,7 +60,7 @@
 
 | Chapter | File | Status | Key Topics |
 |---------|------|--------|-----------|
-| **15** | [15-equipment-vendor-yield-economics.md](chapters/15-equipment-vendor-yield-economics.md) | 🚩 | Equipment differentiation, vendor landscape, yield economics for OPOP integration |
+| **15** | [15-equipment-vendor-yield-economics.md](chapters/15-equipment-vendor-yield-economics.md) | ✓ | Equipment differentiation, vendor landscape, yield economics for OPOP integration |
 
 ---
 
