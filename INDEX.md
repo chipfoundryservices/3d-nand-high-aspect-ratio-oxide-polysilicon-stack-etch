@@ -20,7 +20,7 @@
 | Chapter | File | Status | Key Topics |
 |---------|------|--------|-----------|
 | **1** | [01-opop-industrial-context.md](chapters/01-opop-industrial-context.md) | ✓ | Why OPOP exists alongside ON, adoption landscape, manufacturer choices, industrial context |
-| **2** | [02-polysilicon-sacrificial-material.md](chapters/02-polysilicon-sacrificial-material.md) | 🚩 | Polysilicon deposition, grain structure, doping effects on etch and stress |
+| **2** | [02-polysilicon-sacrificial-material.md](chapters/02-polysilicon-sacrificial-material.md) | ✓ | Polysilicon deposition, grain structure, doping effects on etch and stress |
 | **3** | [03-halogen-chemistry.md](chapters/03-halogen-chemistry.md) | 🚩 | Cl2/HBr/SF6 halogen chemistry, fluorocarbon comparison and hybrid integration |
 | **4** | [04-plasma-oxide-polysilicon-reactions.md](chapters/04-plasma-oxide-polysilicon-reactions.md) | 🚩 | Surface reaction mechanisms for oxide and polysilicon at extreme aspect ratio |
 
