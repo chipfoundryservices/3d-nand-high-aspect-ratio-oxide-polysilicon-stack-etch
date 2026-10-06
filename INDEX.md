@@ -74,7 +74,7 @@
 | **Appendix C** | [appendices/standard-procedures.md](appendices/standard-procedures.md) | ✓ | Standard operating procedures for OPOP channel hole, staircase, and removal/replacement |
 | **Appendix D** | [appendices/correction-tables.md](appendices/correction-tables.md) | ✓ | ARDE / selectivity correction lookup tables, OPOP vs. ON comparative |
 | **Appendix E** | [appendices/charging-thermal-calculations.md](appendices/charging-thermal-calculations.md) | ✓ | Charging and thermal calculations for semiconducting sacrificial stacks |
-| **Appendix F** | [appendices/endpoint-detection.md](appendices/endpoint-detection.md) | 🚩 | Endpoint detection calibration for oxide/polysilicon transitions |
+| **Appendix F** | [appendices/endpoint-detection.md](appendices/endpoint-detection.md) | ✓ | Endpoint detection calibration for oxide/polysilicon transitions |
 
 ---
 
